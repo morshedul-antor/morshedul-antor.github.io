@@ -41,7 +41,7 @@
 
       Twilio.Device.incoming(function (conn) {
         log('Incoming connection from ' + conn.parameters.From);
-        var archEnemyPhoneNumber = '+12099517118';
+        var archEnemyPhoneNumber = '+8801927194591';
 
         if (conn.parameters.From === archEnemyPhoneNumber) {
           conn.reject();
