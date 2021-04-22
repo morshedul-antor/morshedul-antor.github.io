@@ -764,7 +764,7 @@ button[type="submit"]:hover {
   color: #fff;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 370px) {
   .services .icon-box p {
     line-height: 20px;
     font-size: 11.5px;
