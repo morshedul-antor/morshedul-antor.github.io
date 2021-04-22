@@ -764,6 +764,14 @@ button[type="submit"]:hover {
   color: #fff;
 }
 
+@media (max-width: 360px) {
+  .services .icon-box p {
+    line-height: 20px;
+    font-size: 11.5px;
+    margin-bottom: 0;
+  }
+}
+
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
